@@ -24,6 +24,9 @@ body {
     box-shadow: 5px 5px 8px #888888;
     outline: 0;
 }
+.status-msg-wrap { display: none; } 
+.home-link { display: none; }
+.feed-links { display: none; }
 #btn1 {
     width: 150px;
 }
